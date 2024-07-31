@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [portfoliokrish.vercel.app](portfoliokrish.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portfoliokrish.vercel.app/](https://portfoliokrish.vercel.app/)
 
 - 💬 Ask me about **React JS, Next JS, Data Structures & Algorithms**
 
