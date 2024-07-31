@@ -5,11 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/codekrishx" target="blank"><img src="https://img.shields.io/twitter/follow/codekrishx?logo=twitter&style=for-the-badge" alt="codekrishx" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
+- 🔭 I’m currently working on **Developing cutting-edge web applications with ReactJS and NodeJS to create seamless user experiences.**
+
+- 🌱 I’m currently learning **Deepening my expertise in Agile development methodologies to boost team efficiency and project success.**
+
+- 👯 I’m looking to collaborate on **Exciting projects involving AI and image processing to push the boundaries of web technologies.**
+
+- 🤝 I’m looking for help with **Exploring advanced techniques in AI-based image enhancement to deliver visually stunning results.**
 
 - 👨‍💻 All of my projects are available at [https://portfoliokrish.vercel.app/](https://portfoliokrish.vercel.app/)
 
-- 💬 Ask me about **React JS, Next JS, Data Structures & Algorithms**
+- 💬 Ask me about **Crafting responsive, user-friendly web applications with the latest front-end technologies. - Implementing robust back-end solutions to ensure secure and efficient data management.**
 
 - 📫 How to reach me **krishkumarsingh2003@gmail.com**
 
