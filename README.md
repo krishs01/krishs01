@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Krish Kumar</h1>
+a <h1 align="center">Hi 👋, I'm Krish Kumar</h1>
 <h3 align="center">A passionate frontend developer & Competitive Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishs01&label=Profile%20views&color=0e75b6&style=flat" alt="krishs01" /> </p>
 
-<p align="left"> <a href="https://twitter.com/codekrishx" target="blank"><img src="https://img.shields.io/twitter/follow/codekrishx?logo=twitter&style=for-the-badge" alt="codekrishx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/codekrishx" target="_blank"><img src="https://img.shields.io/twitter/follow/codekrishx?logo=twitter&style=for-the-badge" alt="codekrishx" /></a> </p>
 
 - 🔭 I’m currently working on **Developing cutting-edge web applications with ReactJS and NodeJS to create seamless user experiences.**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Exploring advanced techniques in AI-based image enhancement to deliver visually stunning results.**
 
-- 👨‍💻 All of my projects are available at [https://portfoliokrish.vercel.app/](https://portfoliokrish.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliokrish.vercel.app/](https://portfoliokrish.vercel.app/){:target="_blank"}
 
 - 💬 Ask me about **Crafting responsive, user-friendly web applications with the latest front-end technologies. - Implementing robust back-end solutions to ensure secure and efficient data management.**
 
