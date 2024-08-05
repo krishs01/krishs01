@@ -13,7 +13,7 @@ a <h1 align="center">Hi 👋, I'm Krish Kumar</h1>
 
 - 🤝 I’m looking for help with **Exploring advanced techniques in AI-based image enhancement to deliver visually stunning results.**
 
-- 👨‍💻 All of my projects are available at [https://portfoliokrish.vercel.app/](https://portfoliokrish.vercel.app/){:target="_blank"}
+- 👨‍💻 All of my projects are available at (https://portfoliokrish.vercel.app/){:target="_blank"}
 
 - 💬 Ask me about **Crafting responsive, user-friendly web applications with the latest front-end technologies. - Implementing robust back-end solutions to ensure secure and efficient data management.**
 
