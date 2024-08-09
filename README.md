@@ -7,7 +7,7 @@ a <h1 align="center">Hi 👋, I'm Krish Kumar</h1>
 
 - 🔭 I’m currently working on **Developing cutting-edge web applications with ReactJS and NodeJS to create seamless user experiences.**
 
-- 🌱 I’m currently learning **Deepening my expertise in Agile development methodologies to boost team efficiency and project success.**
+- 🌱 I’m currently learning  and **Deepening my expertise in Agile development methodologies to boost team efficiency and project success.**
 
 - 👯 I’m looking to collaborate on **Exciting projects involving AI and image processing to push the boundaries of web technologies.**
 
