@@ -62,8 +62,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishs01&" alt="krishs01" /></p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/krishs01/krishs01/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
