@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Krish Kumar</h1>
-![Coding](./coding.gif)
+
+<img src="./coding.gif" width="100%" alt="Coding animation" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishs01&label=Profile%20views&color=0e75b6&style=flat" alt="krishs01" /> </p>
 
